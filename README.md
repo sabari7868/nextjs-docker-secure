@@ -126,10 +126,4 @@ No interactive shell inside the container.
 
 Only runtime Node.js and app files exist.
 
-Recommended to run behind a reverse proxy (Nginx/Traefik) in production.
 
----
-
-Made with ♥ by [CreativeDesignsGuru](https://creativedesignsguru.com) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ixartz)](https://twitter.com/ixartz)
-
-[![Sponsor Next JS Boilerplate](https://cdn.buymeacoffee.com/buttons/default-red.png)](https://github.com/sponsors/ixartz)
