@@ -1,15 +1,19 @@
 
-Next.js Docker Secure & Optimized
+# Next.js Docker Secure & Optimized 🚀
 
-A production-ready Next.js application containerized with Docker, focusing on:
+[![Docker](https://img.shields.io/badge/Docker-✅-blue?logo=docker)](https://www.docker.com/)
+[![Standalone Build](https://img.shields.io/badge/Next.js-Standalone-4BC0C0?logo=next.js)](https://nextjs.org/)
+[![Distroless](https://img.shields.io/badge/Distroless-✅-grey?logo=google)](https://github.com/GoogleContainerTools/distroless)
+[![Security](https://img.shields.io/badge/Secure-✅-green)](https://www.owasp.org/)
+[![Production Ready](https://img.shields.io/badge/Production-Ready-ff69b4)](https://nextjs.org/docs/deployment)
 
-Security (non-root user, no shell access)
+A production-ready Next.js application containerized with **Docker**, focusing on:
 
-Size optimization (multi-stage build, standalone Next.js build)
+- Security (non-root user, no shell access)
+- Size optimization (multi-stage build, standalone Next.js build)
+- Distroless runtime for minimal attack surface
+- Production-ready Dockerfile following industry best practices
 
-Distroless runtime for minimal attack surface
-
-Production-ready Dockerfile following industry best practices
 
 Features
 
